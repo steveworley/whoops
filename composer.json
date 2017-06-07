@@ -2,6 +2,9 @@
     "name": "steven.worley/whoops",
     "description": "Bring Whoops error handling to Drupal",
     "type": "drupal-module",
+    "keywords": ["drupal", "error handling", "whoops", "drupal whoops"],
+    "license": "GPL2",
+    "homepage": "http://github.com/steveworley/restrict",
     "require": {
         "filp/whoops": "^2.1"
     },
