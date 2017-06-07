@@ -1,0 +1,4 @@
+name: 'Whoops!'
+description: 'PHP error handler framework.'
+type: module
+core: 8.x

@@ -1,0 +1,5 @@
+services:
+  whoops.subscriber:
+    class: 'Drupal\whoops\Events\Subscriber'
+    tags:
+      - { name: 'event_subscriber' }

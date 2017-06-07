@@ -1,0 +1,14 @@
+{
+    "name": "steven.worley/whoops",
+    "description": "Bring Whoops error handling to Drupal",
+    "type": "drupal-module",
+    "require": {
+        "filp/whoops": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Steven Worley",
+            "email": "sj.worley88@gmail.com"
+        }
+    ]
+}
