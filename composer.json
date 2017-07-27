@@ -1,5 +1,5 @@
 {
-    "name": "drupal/whoops",
+    "name": "drupal/whoops_errors",
     "description": "Whoops error handler for Drupal 8",
     "type": "drupal-module",
     "keywords": ["drupal", "error handling", "whoops", "drupal whoops"],

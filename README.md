@@ -9,7 +9,7 @@ Drupal 8 module that enables the Whoops! error handler when encountering catchab
 # Installation
 
 ```
-composer require drupal/whoops
+composer require drupal/whoops_errors
 ```
 
 # Usage
