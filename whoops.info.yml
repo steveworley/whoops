@@ -1,4 +1,6 @@
 name: 'Whoops!'
-description: 'PHP error handler framework.'
+description: 'Whoops error handler for Drupal 8'
 type: module
 core: 8.x
+
+package: development

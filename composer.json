@@ -1,7 +1,10 @@
 {
-    "name": "steven.worley/whoops",
-    "description": "Bring Whoops error handling to Drupal",
+    "name": "drupal/whoops",
+    "description": "Whoops error handler for Drupal 8",
     "type": "drupal-module",
+    "keywords": ["drupal", "error handling", "whoops", "drupal whoops"],
+    "license": "GPL2",
+    "homepage": "http://github.com/steveworley/whoops",
     "require": {
         "filp/whoops": "^2.1"
     },
